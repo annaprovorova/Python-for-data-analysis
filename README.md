@@ -1,3 +1,5 @@
+<!-- ![Alt Text](https://tenor.com/ru/view/pusheen-fast-insane-cat-keyboard-gif-3036617834395918607.gif) -->
+
 Материалы к курсу "Python для анализа данных" для студентов 2 курса программы "Международный бакалавриат", НИУ ВШЭ г.Пермь.
 
 *Лектор Гарафутдинов Г.В., семинарист Проворова А.А.*
@@ -23,3 +25,7 @@ https://edu.hse.ru/course/view.php?id=175587
 
 И просмотреть вот этот источник (учебник "Python как исностранный"):
 https://edu.hse.ru/mod/url/view.php?id=858357
+
+<!-- ![Alt Text](https://tenor.com/ru/view/pusheen-dancing-party-happy-cute-cat-gif-13657913.gif)] 
+# Решения для ДЕМОВАРИАНТА доступны по ссылке https://disk.yandex.ru/d/w4iIVbuXGXP6Rw -->
+
